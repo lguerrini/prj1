@@ -41,7 +41,7 @@ public class FirstApp {
         qta = Float.parseFloat(strqta);
         String strperc = JOptionPane.showInputDialog("dimmi lo sconto");
         perc = Float.parseFloat(strperc);
-
+//qwe
         try {
             String strcod = JOptionPane.showInputDialog("dimmi codice tipo cliente (es. 1,2 o 3)");
             cod = Integer.parseInt(strcod);
